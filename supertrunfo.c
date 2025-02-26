@@ -12,6 +12,30 @@ int man (){
     double pibpercapita1, pibpercapita2;
     double super_poder1, super_poder2;
     
+  double (unsigned long int populacao,float area)
+  double densidade = populacao1 /area1
+   printf("densidade calculada: %.2f\n", densidadepopulacional1);
+   
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     printf("\nentre com o primeiro estado \n" , &estado1);
     printf("entre com o segundo estado \n", &estado2);
