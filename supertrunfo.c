@@ -15,7 +15,7 @@ int man (){
     
     printf("\nentre com o primeiro estado \n" , &estado1);
     printf("entre com o segundo estado \n", &estado2);
-    printf("entre com o codigo da carta1\n", &codigodacarta1A01)
+    printf("entre com o codigo da carta1\n", &codigodacarta1A01);
     printf("entre com o codigo da carta2\n", &codigodacarta2B01);
     printf("nome da cidade 1 \n" , &nomedacidade1);
     printf("nome da cidade 2 \n", &nomedacidade2);
